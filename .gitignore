@@ -30,3 +30,25 @@
 *.exe
 *.out
 *.app
+
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.env
+.env
+.venv
+*.ipynb_checkpoints/
+
+# Java files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.swp
