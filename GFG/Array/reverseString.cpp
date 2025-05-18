@@ -1,10 +1,10 @@
-// ✅ Problem: Reverse a String/Array (GFG)
-// 🔗 Link: https://www.geeksforgeeks.org/problems/reverse-a-string/1
-// 🟦 Language: C++
-// 🎯 Tags: String, Two Pointers
-// ✅ Approach: Swap characters from both ends using two pointers
-// ⏱️ Time Complexity: O(n)
-// 📦 Space Complexity: O(1)
+//  Problem: Reverse a String/Array (GFG)
+//  Link: https://www.geeksforgeeks.org/problems/reverse-a-string/1
+//  Language: C++
+//  Tags: String, Two Pointers
+//  Approach: Swap characters from both ends using two pointers
+//  Time Complexity: O(n)
+//  Space Complexity: O(1)
 
 #include <iostream>
 #include <string>
