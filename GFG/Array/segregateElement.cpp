@@ -1,5 +1,5 @@
 //Segregate positive and negative numbers in an array
-//link: https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0
+//link: https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1
 //language: C++
 //tags: Array, sorting, vector
 //approach: sorting positive and negative number but keeping them in same order using extra space of n
