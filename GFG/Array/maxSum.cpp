@@ -1,5 +1,5 @@
 //To find the maximum sum of a subarray
-//link: https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1
+//link: https://www.geeksforgeeks.org/problems/kadanes-algorithm/0
 //language: C++
 //tags: Array, Dynamic Programming, Kadane's Algorithm
 //approach: kadane's algorithm
