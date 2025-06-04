@@ -1,5 +1,5 @@
 //find common elements in three sorted arrays
-//link: https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0
+//link: https://www.geeksforgeeks.org/problems/common-elements1132/1
 //language: C++
 //tags: Tags: Two Pointers, Arrays, Intersection, Sorted Arrays
 //approach: Use three pointers to traverse the sorted arrays simultaneously, skipping duplicates and collecting common elements
