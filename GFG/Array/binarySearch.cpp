@@ -1,5 +1,5 @@
 // bbinary search 
-//link: https://www.geeksforgeeks.org/problems/palindromic-array/0
+//link: https://www.geeksforgeeks.org/problems/binary-search
 //language: C++
 //tags: Array, binary search, first occurrence
 //approach: binary search on sorted array and find the first occurrence of a target value
